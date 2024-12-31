@@ -7,15 +7,15 @@
 Constituency parser performance is typically evaluated with bracketing F-score, which is a useful proxy of overall performance but does not adequately reveal the strengths and weaknesses of a system. This report presents quantitative and qualitative evaluations that aim to capture the behavior of a parser under different scenarios through observations of parser performance on a designated test set.1 To that end, it offers a comparative analysis of two constituency parsers: Berkeley Neural Parser (Kitaev and Klein, 2018; Kitaev et al., 2019) and Stanford Unlexicalized Probabilistic Context-Free Grammar (PCFG) Parser (Klein and Manning, 2003)
 
 # Results
-## Example: Stanford PCFG Parser Mistakes
+## Example 10b: Stanford PCFG Parser Mistakes
 ![Alt text](assets/10bstanford.png)
 ![Alt text](assets/10bgold.png)
-## Example: Berkeley Neural Parser Mistakes
+## Example 6: Berkeley Neural Parser Mistakes
 ![Alt text](assets/6gold.png)
 ![Alt text](assets/6berkeley.png)
 ## Precision and Recall
-![Alt text](assets/precision-recall.png)
+![Alt text](assets/pr.png)
 ## Parsing Time
-![Alt text](assets/parsing-time.png)
+![Alt text](assets/run-time.png)
 ## Error Types
-![Alt text](assets/error-types.png)
+![Alt text](assets/error-type.png)
