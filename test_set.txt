@@ -1,0 +1,43 @@
+1. My aunt’s can opener can open a drum.
+
+2. The old car broke down in the car park.
+
+3. At least two men broke in and stole my
+TV.
+
+4. Kim and Sandy both broke up with their
+partners.
+
+5. The horse as well as the rabbits which
+we wanted to eat has escaped.
+
+6. It was my aunt’s car which we sold at
+auction last year in February.
+
+7. Natural disasters — storms, flooding,
+hurricanes — occur infrequently but
+cause devastation that strains resources
+to breaking point.
+
+8. Letters delivered on time by old-
+fashioned means are increasingly rare,
+so it is as well that that is not the only
+option available.
+
+9. English also has many words of more or
+less unique function, including interjec-
+tions (oh, ah), negatives (no, not), polite-
+ness markers (please, thank you), and
+the existential ’there’ (there are horses
+but not unicorns) among others.
+
+10a The Penn Treebank tagset was culled
+from the original 87-tag tagset for the
+Brown Corpus.
+
+10b For example the original Brown and C5 
+tagsets include a separate tag for each
+of the different forms of the verbs do
+(e.g. C5 tag VDD for did and VDG tag
+for doing), be and have.
+
